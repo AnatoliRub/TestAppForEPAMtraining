@@ -1,0 +1,16 @@
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\bin\Debug\netcoreapp3.1\testEpamApp.exe
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\bin\Debug\netcoreapp3.1\testEpamApp.deps.json
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\bin\Debug\netcoreapp3.1\testEpamApp.runtimeconfig.json
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\bin\Debug\netcoreapp3.1\testEpamApp.runtimeconfig.dev.json
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\bin\Debug\netcoreapp3.1\testEpamApp.dll
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\bin\Debug\netcoreapp3.1\testEpamApp.pdb
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\bin\Debug\netcoreapp3.1\ShapeLib.dll
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\bin\Debug\netcoreapp3.1\ShapeLib.pdb
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\obj\Debug\netcoreapp3.1\testEpamApp.csprojAssemblyReference.cache
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\obj\Debug\netcoreapp3.1\testEpamApp.AssemblyInfoInputs.cache
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\obj\Debug\netcoreapp3.1\testEpamApp.AssemblyInfo.cs
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\obj\Debug\netcoreapp3.1\testEpamApp.csproj.CoreCompileInputs.cache
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\obj\Debug\netcoreapp3.1\testEpamApp.csproj.CopyComplete
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\obj\Debug\netcoreapp3.1\testEpamApp.dll
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\obj\Debug\netcoreapp3.1\testEpamApp.pdb
+C:\Users\Cat\Desktop\EPAM\testEpamApp\testEpamApp\obj\Debug\netcoreapp3.1\testEpamApp.genruntimeconfig.cache
